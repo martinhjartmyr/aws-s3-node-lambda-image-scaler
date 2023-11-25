@@ -1,5 +1,7 @@
 # aws-s3-node-lambda-image-scaler
 
+AWS lambda function to serve scaled images from S3 buckets.
+
 ## Installation
 
 Clone the repo
